@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.com/calvinbui/ansible-bitwardenrs-docker.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-bitwardenrs-docker)
 ![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-bitwardenrs-docker.svg)
-![Ansible Quality Score](https://img.shields.io/ansible/quality/42362.svg)
-![Ansible Role](https://img.shields.io/ansible/role/d/42362.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/42480.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/42480.svg)
 
 # Ansible Bitwarden RS
 
